@@ -1,0 +1,25 @@
+{
+  "name": "novabennett95-online-timer",
+  "version": "1.0.0",
+  "description": "Online Timer a free online countdown timer and stopwatch with custom alerts and no downloads",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "online-timer",
+    "timer",
+    "countdown",
+    "stopwatch",
+    "web-app",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Clockii",
+  "license": "ISC",
+  "homepage": "https://clockii.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novabennett95/online-timer.git"
+  }
+}
